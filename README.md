@@ -29,3 +29,7 @@ To start the app run
 
 
     npm start
+
+
+
+Delete functionality is currently throwing an error. Need help.
